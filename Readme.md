@@ -2,4 +2,5 @@
 
 ## Proyectos_2DAW
 
-Ejemplos de uso
+Ejemplos de uso.
+- Probar Git con comandos
